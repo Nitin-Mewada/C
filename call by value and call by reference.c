@@ -37,3 +37,4 @@ change(int *p)
 	printf("\nVALUE OF p=%d",*p);
 	
 }
+
