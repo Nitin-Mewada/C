@@ -32,4 +32,4 @@ int main()
 	printf("\n THE CHARACTER IN LOWER CASE=%c",tolower(ch));
 	printf("\n THE CHARACTER IN UPPER CASE=%c",toupper(ch));
 	return 0;
-}
+}
