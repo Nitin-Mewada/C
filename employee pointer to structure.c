@@ -28,4 +28,3 @@ void display(struct employee *a)
     printf("\nSALARY=%f",a->salary);
     
 }
-
