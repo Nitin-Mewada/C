@@ -11,4 +11,4 @@ int main()
     printf("Name: ");
     puts(name);    // display string
     return 0;
-} 
+} 
