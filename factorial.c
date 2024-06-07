@@ -15,4 +15,4 @@ int main()
     printf("factorial=%d\n",fact);
     return 0;
     
-}
+}
