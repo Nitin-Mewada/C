@@ -20,5 +20,4 @@ int main()
     gets(a);
 	printf("\n YOUR NAME IS %s",a);
 	return 0;
-}
-
+}
