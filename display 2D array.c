@@ -17,4 +17,4 @@ int main()
 		printf("%d\t",a[i][j]);
 	}
 	return 0;
-}
+}
