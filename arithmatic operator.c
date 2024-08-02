@@ -84,4 +84,4 @@ int main()
 	printf("%d max number",max);
 	return 0;			
 	
-}
+}
