@@ -14,4 +14,4 @@ int main()
 	freq++;
 	printf("FREQUENCY OF %d is %d",key,freq);
 	return 0;
-}
+}
