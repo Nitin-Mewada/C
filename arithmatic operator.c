@@ -83,5 +83,5 @@ int main()
 	max=(a>c)?a:c;
 	printf("%d max number",max);
 	return 0;			
-	
+
 }
