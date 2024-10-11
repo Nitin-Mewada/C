@@ -33,3 +33,4 @@ int main()
 	printf("\n THE CHARACTER IN UPPER CASE=%c",toupper(ch));
 	return 0;
 }
+
