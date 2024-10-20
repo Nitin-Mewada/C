@@ -1,4 +1,5 @@
 
+
 // wap to  enployee structure read value and display value
 // structure as fuction argument
 #include<stdio.h>
