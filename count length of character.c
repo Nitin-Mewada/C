@@ -12,6 +12,5 @@ int main()
 	i++;
 	printf("\n TOTAL NUMBER OF CHARACTERS IS=%d",i);
 	return 0;
-} 
-
+} 
 
