@@ -38,4 +38,3 @@ change(int *p)
 	
 }
 
-
