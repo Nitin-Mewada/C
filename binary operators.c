@@ -14,7 +14,7 @@ int main()
 	printf("division of two number=%d\n",division);
 	modulus=a%b;
 	printf("modulus of two number=%d\n",modulus);
-	
+
 	/*
 	
 	
