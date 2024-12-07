@@ -16,7 +16,7 @@ int main()
 	printf("modulus of two number=%d\n",modulus);
 	
 	/*
-		
+	
 	
 	float c,f;
 	printf("Enter the temperature in celcius:\n");
