@@ -8,4 +8,5 @@ int main()
 	fac=fac*i;
 	printf("%d=",fac);
 	return 0;
+
 }
