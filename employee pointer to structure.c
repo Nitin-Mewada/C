@@ -29,4 +29,3 @@ void display(struct employee *a)
     
 }
 
-
