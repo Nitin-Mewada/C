@@ -17,4 +17,3 @@ int main()
 	printf("\nTOTAL EVEN NUMBER=%d and TOTAL ODD NUMBER=%d",even,odd);
 	return 0;
 }
-
